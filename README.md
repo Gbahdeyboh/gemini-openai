@@ -1,2 +1,2 @@
-# gemini-openai
-OpenAPI Schema auto generated from Google's Gemini API Discovery document
+# gemini-openapi
+OpenAPI Schema auto-generated from Google's Gemini API Discovery document
